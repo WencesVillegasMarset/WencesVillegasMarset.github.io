@@ -4,11 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Hello! 
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+What is that? What is this? What is this? Huh?
+This is a simple blog containing stuff that I'm interested in.
+I'm choosing to use it like a dump in times of lag.
 
 ### Contact me
 

@@ -9,7 +9,7 @@ name: Wenceslao Villegas
 description: Machine Learner
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: http://dharma.frm.utn.edu.ar/sites/default/files/profile.png
+avatar: https://avatars0.githubusercontent.com/u/25288062?s=460&u=36dfd024da2ede71dbec9d9caae0f3f74befa45f&v=4
 
 #
 # Flags below are optional
@@ -17,7 +17,6 @@ avatar: http://dharma.frm.utn.edu.ar/sites/default/files/profile.png
 
 # Includes an icon in the footer for each username you enter
 footer-links:
-  dribbble:
   email: villegaswences@gmail.com
   # facebook:
   # flickr:
