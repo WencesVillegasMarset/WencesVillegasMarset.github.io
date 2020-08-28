@@ -1,6 +1,6 @@
 ---
 layout: post
-title: First preprint paper done!
+title: First paper done!
 tag: research
 categories: research
 ---
