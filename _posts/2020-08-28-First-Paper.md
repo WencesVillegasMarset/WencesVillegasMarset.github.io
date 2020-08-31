@@ -2,7 +2,7 @@
 layout: post
 title: First paper done!
 tag: research
-categories: research
+categories: Work
 ---
 
 The preprint has been uploaded to [ArXiv](https://arxiv.org/abs/2008.11872)
