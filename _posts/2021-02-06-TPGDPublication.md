@@ -5,9 +5,11 @@ tag: research
 categories: Work
 ---
 
-Our paper **Towards Practical 2D Grapevine Bud Detection with Fully Convolutional Networks** was published on February the 4th!
+The paper **Towards Practical 2D Grapevine Bud Detection with Fully Convolutional Networks** was published on February the 4th!
 
 Thanks to all our colleagues at [DHARMa AI Research Group](http://dharma.frm.utn.edu.ar/).
+
+*You can access the manuscript via this link until March 26, 2021:* https://authors.elsevier.com/a/1cXD2cFCSNFy5
 
 ### Abstract:
 
@@ -22,7 +24,4 @@ Thanks to all our colleagues at [DHARMa AI Research Group](http://dharma.frm.utn
 * Computers and Electronics in Agriculture, Volume 182, 2021, 105947, 
 * ISSN 0168-1699 
 * https://doi.org/10.1016/j.compag.2020.105947 (https://www.sciencedirect.com/science/article/pii/S0168169920331525)
-
-
-*You can access the manuscript freely via this link until March 26, 2021:* https://authors.elsevier.com/a/1cXD2cFCSNFy5
 
