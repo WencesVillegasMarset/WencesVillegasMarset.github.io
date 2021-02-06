@@ -9,7 +9,7 @@ The paper **Towards Practical 2D Grapevine Bud Detection with Fully Convolutiona
 
 Thanks to all our colleagues at [DHARMa AI Research Group](http://dharma.frm.utn.edu.ar/).
 
-*You can access the manuscript via this link until March 26, 2021:* https://authors.elsevier.com/a/1cXD2cFCSNFy5
+*You can access the manuscript via this [link](https://authors.elsevier.com/a/1cXD2cFCSNFy5) until March 26, 2021.* 
 
 ### Abstract:
 
